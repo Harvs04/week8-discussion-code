@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "553897307650",
+    "project_id": "cmsc23-hamartinez",
+    "storage_bucket": "cmsc23-hamartinez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553897307650:android:d78ed3e0d2f8695ee1811b",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553897307650-gqjavpbsu5kk7gld0s3spe709defa9nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3Rvn-n52EWgpN9ihXYtqAuqMxBHg63E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553897307650-gqjavpbsu5kk7gld0s3spe709defa9nu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553897307650-9asmucf8po8e9r1tcq1mq135umi76grv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
